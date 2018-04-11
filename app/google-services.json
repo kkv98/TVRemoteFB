@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "409304406074",
+    "firebase_url": "https://tvremote-69d72.firebaseio.com",
+    "project_id": "tvremote-69d72",
+    "storage_bucket": "tvremote-69d72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409304406074:android:083a3ce2e0b63b1f",
+        "android_client_info": {
+          "package_name": "com.kkv.killer.tvremotefb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409304406074-vkd0q8i35jp8bmtgnh2q6eehaea5nera.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kkv.killer.tvremotefb",
+            "certificate_hash": "74284e134739efeda904d2441000c64338c664ed"
+          }
+        },
+        {
+          "client_id": "409304406074-jhesiik842lpuldpk0vm6vor0hgh60js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_jCtgBbap2m4WTQqf75NTrCvLQxYhVF0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409304406074-jhesiik842lpuldpk0vm6vor0hgh60js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
